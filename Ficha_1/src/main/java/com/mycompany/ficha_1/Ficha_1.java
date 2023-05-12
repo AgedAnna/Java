@@ -7,7 +7,7 @@ package com.mycompany.ficha_1;
 import java.util.Scanner;
 public class Ficha_1 {
 
-    public static void main(String[] args) {
+   public static void main(String[] args) {
        
         int n1;
         Scanner numero;
